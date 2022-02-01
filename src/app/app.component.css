@@ -1,0 +1,24 @@
+.pretty-form {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex-direction: column;
+    height: 800px;
+}
+
+.example-card {
+    max-width: 400px;
+    min-width: 400px;
+    display: block;
+  }
+  
+  .example-header-image {
+    background-size: cover;
+  }
+  
+
+strong {
+    margin-right: 10px;
+}
